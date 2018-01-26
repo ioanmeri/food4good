@@ -1,9 +1,9 @@
 # food4good
 
-##A simple front end project for an imaginary start up business.
+## A simple front end project for an imaginary start up business.
 
-###Goal of this project was to familiarize and implement modern JS and CSS techniques.
-###food4good covers:
+### Goal of this project was to familiarize and implement modern JS and CSS techniques.
+### food4good covers:
 
 * Colors, Typography, Icons and Layout
 * Fluid grid for responsive web design
