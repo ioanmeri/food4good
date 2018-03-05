@@ -4,7 +4,9 @@
 
 [Visit food4good](https://food4good-app.herokuapp.com/ "Deployed")
 
-*Note: The server make take a while to respond. Also, the favicon and the contact form is not supported in the current version*
+*Note: Initial load may take a while because inactive apps hibernate*
+
+*Also, the favicon and the contact form is not supported in the current version*
 
 ### Goal of this project was to familiarize and implement basic JS and CSS techniques. The fluid grid is quite old, although it can be used to solve backward compatibility issues (a few browsers don't support flexbox).
 ### food4good covers:
