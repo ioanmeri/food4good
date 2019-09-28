@@ -1,5 +1,5 @@
 # food4good
-*Based on the course: [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) by Jonas Schmedtmann
+*Based on the course: [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) by Jonas Schmedtmann*
 ## A simple front end project for an imaginary start up business made with pure HTML and CSS.
 
 [Visit food4good](https://food4good-app.herokuapp.com/ "Deployed")
